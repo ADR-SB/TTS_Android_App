@@ -17,4 +17,4 @@ This Android app converts text input into spoken words.
 3. Listen to the spoken output.
 
 ## Demo
-![TTS_Demo](https://github.com/ADR-SB/TTS_Android_App/assets/117518044/a83cab64-cdc6-4a5d-8203-8aefd42ae5bb)
+<img src="https://github.com/ADR-SB/TTS_Android_App/assets/117518044/a83cab64-cdc6-4a5d-8203-8aefd42ae5bb" width="100" height="220">
